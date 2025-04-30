@@ -109,12 +109,6 @@ Crear el archivo `tests/processNode.test.js` que incluya pruebas para:
 
 ---
 
-## ⏳ Tiempo estimado
-
-Hasta el sábado `[fecha límite]` para completar y enviar el enlace del repositorio.
-
----
-
 **¡Mucho éxito!**
 
 ---
